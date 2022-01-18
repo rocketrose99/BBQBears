@@ -1,0 +1,1 @@
+PD_Control_3 is the reaction wheel control algorithm and it depends an blocks in the attached Math_Lib.slx and sim_operations.slx libraries. The library links may be broken when these are moved to a different computer, but students should be able to get it fixed and running.
